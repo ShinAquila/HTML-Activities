@@ -1,0 +1,110 @@
+body{
+    background-color: rgb(165, 165, 165);
+    margin: 0px;
+    padding: 0px;
+}
+
+.clearfix{
+    clear: both;
+}
+
+.main{
+    height: 1150px;
+    width: 800px;
+    background-color: white;
+    box-shadow: 5px 7px 15px 5px #424242;
+    margin: 20px auto;
+}
+
+.top-boi{
+    background-color: rgb(54, 53, 53);
+    text-align: center;
+    padding: 20px;
+    color: white;
+}
+
+.name{
+    width: 150px;
+    border-radius: 50%;
+}
+
+.pers{
+    top:30%;
+    left:23%;
+}
+
+.p1{
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+    margin: 0px;
+    margin-top: 10px;
+    font-family:verdana;
+}
+
+.p1 span{
+    font-weight: 100;
+    color: #07e275;
+}
+
+.p2{
+    color: #c7c7c7;
+    font-size: 20px;
+    margin: 0px;
+    margin-top: 10px;
+    
+}
+
+.side{
+    width: 35%;
+    float: left;
+}
+
+.u{
+    width: 62%;
+    float: left;
+}
+
+.line{
+    border-left: 1px solid #c7c7c7;
+    height: 800px;
+    width: 2%;
+    margin-top: 30px;
+    float: left;
+}
+
+.about{
+    padding: 20px;
+}
+
+.head{
+    font-size: 20px;
+    font-weight: 600;
+} 
+
+.p3{
+    color: #727272;
+    margin-bottom: -5px;
+}
+
+.fa{
+    color: #151b29;
+}
+
+.list{
+    margin-left: -20px;
+    margin-bottom: 0px;
+}
+
+.list li{
+    padding: 5px;
+}
+
+.list li span{
+    color: #727272;
+}
+
+.p4{
+    font-size: 14px;
+    color: #727272;
+}

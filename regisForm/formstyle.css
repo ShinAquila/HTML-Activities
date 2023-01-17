@@ -1,0 +1,44 @@
+body{
+    background-color: #919191;
+    margin: 0px;
+    padding: 0px;
+}
+.main{
+    background-color: white;  
+    margin-top: 10%;
+    margin-bottom: 5%;
+    height: 2850px;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 4%;
+    border-radius: 10px;
+}
+.topboi{
+    background-color: rgb(236, 156, 6);
+    margin-left: 25%;
+    margin-top: 5%;
+    height: 120px;
+    width: 675px;
+    position: absolute;
+    border-radius: 10px 10px 0px 0px;
+    padding: 30px;
+}
+.agesize{
+    margin-top: -32px;
+    margin-left: 30px;
+}
+.submboi{
+    margin-top: 15%;
+}
+.boxinfo{
+    background-color: rgb(207, 36, 36);
+    height: 50px;
+    width: 300px;
+    margin-left: -15%;
+}
+.dividerboi{
+    background-color: #919191;
+    height: 1px;
+    width: 110%;
+    margin-left: -5%;
+}
