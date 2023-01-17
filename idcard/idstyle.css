@@ -1,0 +1,65 @@
+body{
+    background-color: #eb981d;
+    margin: 0px;
+    padding: 0px;
+}
+@font-face {
+    font-family: GreatVibes;
+    src: url(GreatVibes.ttf);
+}
+.sideboi{
+    background-color: rgb(100, 0, 0);
+    height: 65%;
+    width: 34%;
+    margin-left: 3%;
+    margin-top: -36.2%;
+}
+.boxbehind{
+    background-color: rgb(100, 0, 0);
+    width: 218px;
+    height: 258px;
+    margin-left: 42%;
+    margin-top: 2%;
+}
+.sidetextmain{
+    transform: rotate(270deg);
+    color: white;
+    z-index: 2;
+}
+.sidetext1{
+    margin-left: -40%;
+    margin-top: 125%;
+    font-weight: bold;
+    font-size: 19.8px;
+}
+.sidetext2{
+    margin-right: 35%;
+}
+.toptextmain{
+    margin-top: -22%;
+    margin-left: 40%;
+    color: rgb(100, 0, 0);
+}
+.toptext1{
+    font-family: GreatVibes;
+    font-size: 60px;
+}
+.toptext2{
+    font-size: 30px;
+    margin-top: -3%;
+}
+.topline1{
+    background-color: #b6b6b6;
+    height: 90px;
+    width: 100.5%;
+    margin-top: -1px;
+    margin-left: -1px;
+    border-radius: 4px 4px 0px 0px;
+}
+.topline2{
+    background-color: #b6b6b6;
+    height: 50px;
+    width: 100.5%;
+    margin-top: 4px;
+    margin-left: -1px;
+}
